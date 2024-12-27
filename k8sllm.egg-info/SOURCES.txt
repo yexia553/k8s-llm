@@ -1,0 +1,14 @@
+README.md
+setup.py
+k8sllm/__init__.py
+k8sllm/cli.py
+k8sllm/config.py
+k8sllm/context_manager.py
+k8sllm/k8s_executor.py
+k8sllm/llm_processor.py
+k8sllm.egg-info/PKG-INFO
+k8sllm.egg-info/SOURCES.txt
+k8sllm.egg-info/dependency_links.txt
+k8sllm.egg-info/entry_points.txt
+k8sllm.egg-info/requires.txt
+k8sllm.egg-info/top_level.txt
