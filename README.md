@@ -19,6 +19,12 @@ cd k8sllm
 pip install -r requirements.txt && pip install . e
 ```
 
+or 
+
+```bash
+pip install k8sllm
+```
+
 ## Usage
 
 ```bash
